@@ -18,3 +18,4 @@ No Absen : 16
 |Week 6        | `'Job Sheet 6 : Ensemble Learning'` | https://github.com/bintangsholu21/Pembelajaran-Mesin/blob/main/Modul%206%20-%20Ensemble%20Learning.ipynb
 |Week 7        | `'Job Sheet 7: Clustering'` | https://github.com/bintangsholu21/Pembelajaran-Mesin/blob/main/Modul%207%20-%20Clustering.ipynb
 |Week 8        | `'UTS'` | https://github.com/bintangsholu21/Pembelajaran-Mesin/blob/main/UTS.ipynb
+|Week 9        | `'Job Sheet 9: Perceptron dan ANN'` | https://github.com/bintangsholu21/Pembelajaran-Mesin/blob/main/Modul%209%20-%20Perceptron%20dan%20ANN.ipynb
