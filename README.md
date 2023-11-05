@@ -20,3 +20,4 @@ No Absen : 16
 |Week 8        | `'UTS'` | https://github.com/bintangsholu21/Pembelajaran-Mesin/blob/main/UTS.ipynb
 |Week 9        | `'Job Sheet 9: Perceptron dan ANN'` | https://github.com/bintangsholu21/Pembelajaran-Mesin/blob/main/Modul%209%20-%20Perceptron%20dan%20ANN.ipynb
 |Week 10        | `'Job Sheet 10 : Recurrent Neural Network (RNN)'` | https://github.com/bintangsholu21/Pembelajaran-Mesin/blob/main/Modul%2010%20-%20Recurrent%20Neural%20Network%20(RNN).ipynb
+|Week 11        | `'Job Sheet 11 : Convolutional Neural Network (CNN))'` | https://github.com/bintangsholu21/Pembelajaran-Mesin/blob/main/Modul%2011%20-%20Convolutional%20Neural%20Network%20(CNN).ipynb
